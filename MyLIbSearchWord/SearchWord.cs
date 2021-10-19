@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace _2_Quest
+namespace MyLIbSearchWord
 {
-    internal class SearchWord
+    public class SearchWord
     {
-        public Dictionary<string, int> Words = new Dictionary<string, int>();
 
-        public List<Word> SearchAllWord(string Data)
+
+        private Dictionary<string, int> SearchAllWord(string Data)
         {
+            Dictionary<string, int> Words = new Dictionary<string, int>();
             Words.Clear();
             string[] wordsArr = RemovePunctuationMarks(Data);
 
@@ -25,19 +26,12 @@ namespace _2_Quest
                     Words[wordsArr[i]]++;
                 }
             }
-            List<Word> WordsList = new List<Word>();
-
-            foreach (var item in Words)
-            {
-                WordsList.Add(new Word(item.Value, item.Key));
-            }
-            WordsList = WordsList.OrderByDescending(x => x.Quantity).ToList();
-
-            return WordsList;
+            return Words;
         }
 
-        public List<Word> SearchWords(string Data, List<string> WordSearch)
+        private Dictionary<string, int> SearchWords(string Data, List<string> WordSearch)
         {
+            Dictionary<string, int> Words = new Dictionary<string, int>();
             Words.Clear();
             string[] wordsArr = RemovePunctuationMarks(Data);
             foreach (var item in WordSearch)
@@ -51,15 +45,7 @@ namespace _2_Quest
                     Words[wordsArr[i]]++;
                 }
             }
-            List<Word> WordsList = new List<Word>();
-
-            foreach (var item in Words)
-            {
-                WordsList.Add(new Word(item.Value, item.Key));
-            }
-            WordsList = WordsList.OrderByDescending(x => x.Quantity).ToList();
-
-            return WordsList;
+            return Words;
         }
 
         private string[] RemovePunctuationMarks(string Data)

@@ -6,4 +6,10 @@
     <RootNamespace>_2_Quest</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="MyLIbSearchWord">
+      <HintPath>..\MyLIbSearchWord\bin\Debug\MyLIbSearchWord.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

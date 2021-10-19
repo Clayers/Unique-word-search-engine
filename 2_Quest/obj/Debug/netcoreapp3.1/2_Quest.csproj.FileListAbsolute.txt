@@ -25,3 +25,20 @@ F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.Co
 F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.dll
 F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.pdb
 F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.genruntimeconfig.cache
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.exe
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.deps.json
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.json
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.dev.json
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.dll
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\MyLIbSearchWord.dll
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\MyLIbSearchWord.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.AssemblyReference.cache
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.GeneratedMSBuildEditorConfig.editorconfig
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfoInputs.cache
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfo.cs
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CoreCompileInputs.cache
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CopyComplete
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.dll
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.genruntimeconfig.cache

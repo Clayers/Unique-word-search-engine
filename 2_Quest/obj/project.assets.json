@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Коробов\\Pain\\2_Quest\\2_Quest\\2_Quest.csproj",
+      "projectUniqueName": "F:\\мои предметы\\Коробов\\Pain\\2_Quest\\2_Quest\\2_Quest.csproj",
       "projectName": "2_Quest",
-      "projectPath": "F:\\Коробов\\Pain\\2_Quest\\2_Quest\\2_Quest.csproj",
+      "projectPath": "F:\\мои предметы\\Коробов\\Pain\\2_Quest\\2_Quest\\2_Quest.csproj",
       "packagesPath": "C:\\Users\\Clay\\.nuget\\packages\\",
-      "outputPath": "F:\\Коробов\\Pain\\2_Quest\\2_Quest\\obj\\",
+      "outputPath": "F:\\мои предметы\\Коробов\\Pain\\2_Quest\\2_Quest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Clay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
