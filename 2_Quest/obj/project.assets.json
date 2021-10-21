@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\мои предметы\\Коробов\\Pain\\2_Quest\\2_Quest\\2_Quest.csproj",
+      "projectUniqueName": "C:\\Users\\Clay\\Downloads\\Unique-word-search-engine\\Unique-word-search-engine\\2_Quest\\2_Quest.csproj",
       "projectName": "2_Quest",
-      "projectPath": "F:\\мои предметы\\Коробов\\Pain\\2_Quest\\2_Quest\\2_Quest.csproj",
+      "projectPath": "C:\\Users\\Clay\\Downloads\\Unique-word-search-engine\\Unique-word-search-engine\\2_Quest\\2_Quest.csproj",
       "packagesPath": "C:\\Users\\Clay\\.nuget\\packages\\",
-      "outputPath": "F:\\мои предметы\\Коробов\\Pain\\2_Quest\\2_Quest\\obj\\",
+      "outputPath": "C:\\Users\\Clay\\Downloads\\Unique-word-search-engine\\Unique-word-search-engine\\2_Quest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Clay\\AppData\\Roaming\\NuGet\\NuGet.Config",

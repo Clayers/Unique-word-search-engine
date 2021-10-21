@@ -1,44 +1,21 @@
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.AssemblyReference.cache
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfoInputs.cache
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfo.cs
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CoreCompileInputs.cache
-C:\Users\Clay\source\repos\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.exe
-C:\Users\Clay\source\repos\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.deps.json
-C:\Users\Clay\source\repos\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.json
-C:\Users\Clay\source\repos\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.dev.json
-C:\Users\Clay\source\repos\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.dll
-C:\Users\Clay\source\repos\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.pdb
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.dll
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.pdb
-C:\Users\Clay\source\repos\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.genruntimeconfig.cache
-F:\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.exe
-F:\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.deps.json
-F:\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.json
-F:\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.dev.json
-F:\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.dll
-F:\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.pdb
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.AssemblyReference.cache
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.GeneratedMSBuildEditorConfig.editorconfig
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfoInputs.cache
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfo.cs
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CoreCompileInputs.cache
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.dll
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.pdb
-F:\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.genruntimeconfig.cache
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.exe
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.deps.json
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.json
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.dev.json
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.dll
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.pdb
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\MyLIbSearchWord.dll
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\bin\Debug\netcoreapp3.1\MyLIbSearchWord.pdb
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.AssemblyReference.cache
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.GeneratedMSBuildEditorConfig.editorconfig
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfoInputs.cache
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfo.cs
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CoreCompileInputs.cache
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CopyComplete
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.dll
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.pdb
-F:\мои предметы\Коробов\Pain\2_Quest\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.genruntimeconfig.cache
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.exe
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\Text\Война и Мир, 1 Том.txt
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\Text\Война и Мир, 2 Том.txt
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\Text\Война и Мир, 3 Том.txt
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\Text\Война и Мир, 4 Том.txt
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.deps.json
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.json
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.runtimeconfig.dev.json
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.dll
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\2_Quest.pdb
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\SearchWordLib.dll
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\bin\Debug\netcoreapp3.1\SearchWordLib.pdb
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.AssemblyReference.cache
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfoInputs.cache
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.AssemblyInfo.cs
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CoreCompileInputs.cache
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.csproj.CopyComplete
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.dll
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.pdb
+C:\Users\Clay\Downloads\Unique-word-search-engine\Unique-word-search-engine\2_Quest\obj\Debug\netcoreapp3.1\2_Quest.genruntimeconfig.cache

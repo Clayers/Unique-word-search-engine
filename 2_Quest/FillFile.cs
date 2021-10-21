@@ -1,23 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 
 namespace _2_Quest
 {
-    internal class FillFile
+    internal static class FillFile
     {
-        public void Fill(string NameFile, List<Word> Words)
+        public static void Fill(string nameFile, List<Word> words)
         {
-            string path = AppDomain.CurrentDomain.BaseDirectory + NameFile + ".txt";
+            var path = AppDomain.CurrentDomain.BaseDirectory + nameFile;
 
-            FileStream file = new FileStream(path, FileMode.OpenOrCreate);
+            var file = new FileStream(path, FileMode.OpenOrCreate);
 
-            StreamWriter fnew = new StreamWriter(file);
-            for (int i = 0; i < Words.Count; i++)
-            {
-                fnew.WriteLine(String.Format(Words[i].Words.ToString() + "(" + Words[i].Quantity.ToString() + ")"));
-            }
-            fnew.Close();
+            using var fnew = new StreamWriter(file);
+            for (var i = 0; i < words.Count; i++)
+                fnew.WriteLine($"{words[i].Words} ({words[i].Quantity})");
         }
     }
 }
