@@ -1,74 +1,82 @@
-﻿using MyLIbSearchWord;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
+using System.Diagnostics;
 using System.Linq;
-
 using System.Reflection;
+using System.Text;
+using System.Threading.Tasks;
+
+using SearchWordLib;
 
 namespace _2_Quest
 {
     internal class Program
     {
-        static public string Path = "Text";//Название папки в каталоге программы
-        static public bool Switch = false;// Переключатель-поиск слов вписанных в List Word = true|| поиск всех уникальных слов false.
-        static public string NameFile = "New";// название создаваемого файла
-
-        static public List<string> FillSearchWord(List<string> WordList)
-        {
-            WordList.Add("Пьер");
-            WordList.Add("день");
-            WordList.Add("смотрел");
-            WordList.Add("Ежели");
-            WordList.Add("plus");
-
-            return WordList;
-
-
-        }
-
         private static void Main(string[] args)
         {
-            
+            var pathFiles = FileHelper.GetFilesInDirectory("*.txt", FileHelper.GetCurrentPath(FolderName));
+            var data = FileHelper.GetAllTextByPath(pathFiles);
 
+            var SearchWordsMethod = typeof(SearchWord)
+                .GetMethod("SearchWords", BindingFlags.NonPublic | BindingFlags.Instance);
 
-            List<string> PathFile = new List<string>();// Лист с путями файлов
-            SearchFile SearchFile = new SearchFile();
-            FillFile FillFile = new FillFile();
-            List<Word> Words = new List<Word>();//найденные слова
-            List<string> WordList = new List<string>();//искомые слова
-            string Data = "";
+            ///ДЛЯ УВЕЛИЧЕНИЯ ДАННЫХ (тесты произ)'
+            //Console.WriteLine("Start gen words");
+            //StringBuilder sb = new StringBuilder(data);
+            //for (var i = 0; i < 1000000; i++) sb.Append(" " + Guid.NewGuid());
+            //data = sb.ToString();
 
-            PathFile = SearchFile.GetAllFiles("*.txt", SearchFile.GetPath(Path));
-            for (int i = 0; i < PathFile.Count; i++)
+            if (SearchWordsMethod != null)
             {
-                Data = Data + SearchFile.GetStringFile(PathFile[i]);
-            }
-            
-            if (Switch == false)
-            {
-                FillFile.Fill("New", SortingRec((Dictionary<string, int>)typeof(SearchWord).GetMethod("SearchAllWord", BindingFlags.NonPublic | BindingFlags.Instance).Invoke(new SearchWord(), new object[] { Data })));
-            }
-            if (Switch == true)
-            {
-                FillSearchWord(WordList);
-                FillFile.Fill("New", SortingRec((Dictionary<string, int>)typeof(SearchWord).GetMethod("SearchWords", BindingFlags.NonPublic | BindingFlags.Instance).Invoke(new SearchWord(), new object[] { Data })));
+                var timeReflection = new Stopwatch();
+                Console.WriteLine("Start Reflection");
+                timeReflection.Start();
+                var dictReflection =
+                    (Dictionary<string, int>) SearchWordsMethod.Invoke(new SearchWord(), new object[] {data});
+                timeReflection.Stop();
+
+                Console.WriteLine("Start Thread");
+                var sw = new SearchWord();
+                var timeThread = new Stopwatch();
+                timeThread.Start();
+                var dictThread = sw.SearchWordsAsync(data);
+                timeThread.Stop();
+                Console.WriteLine("write file...");
+
+                var tsReflection = timeReflection.Elapsed;
+                Console.WriteLine("RunTime Reflection: " +
+                                  $"{tsReflection.Hours:00}:{tsReflection.Minutes:00}:{tsReflection.Seconds:00}.{tsReflection.Milliseconds / 10:00}");
+
+                var tsThread = timeThread.Elapsed;
+                Console.WriteLine("RunTime Thread: " +
+                                  $"{tsThread.Hours:00}:{tsThread.Minutes:00}:{tsThread.Seconds:00}.{tsThread.Milliseconds / 10:00}");
+
+                var resReflection = SortingRec(dictReflection);
+                FillFile.Fill("Reflection_" + OutputFile, resReflection);
+
+                var resThread = SortingRec(dictThread);
+                FillFile.Fill("Thread_" + OutputFile, resThread);
             }
         }
 
 
-        static public List<Word> SortingRec(Dictionary<string, int> Words)
+        public static List<Word> SortingRec(IDictionary<string, int> words)
         {
-            List<Word> WordsList = new List<Word>();
+            var WordsList = new List<Word>();
 
-            foreach (var item in Words)
-            {
-                WordsList.Add(new Word(item.Value, item.Key));
-            }
+            foreach (var item in words) WordsList.Add(new Word(item.Value, item.Key));
 
             WordsList = WordsList.OrderByDescending(x => x.Quantity).ToList();
 
             return WordsList;
         }
+
+        #region Settings
+
+        private static readonly string FolderName = "Text"; //Название папки в каталоге программы
+
+        private const string OutputFile = "output.txt"; // название создаваемого файла
+
+        #endregion
     }
 }
