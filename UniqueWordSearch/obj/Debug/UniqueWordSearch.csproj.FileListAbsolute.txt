@@ -1,0 +1,19 @@
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\bin\Debug\UniqueWordSearch.exe.config
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\bin\Debug\UniqueWordSearch.exe
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\bin\Debug\UniqueWordSearch.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\bin\Debug\SearchWordLib.dll
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\bin\Debug\SearchWordLib.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\obj\Debug\UniqueWordSearch.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\obj\Debug\UniqueWordSearch.exe
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\obj\Debug\UniqueWordSearch.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\UniqueWordSearch\obj\Debug\UniqueWordSearch.csproj.AssemblyReference.cache
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\bin\Debug\UniqueWordSearch.exe.config
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\bin\Debug\UniqueWordSearch.exe
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\bin\Debug\UniqueWordSearch.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\bin\Debug\SearchWordLib.dll
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\bin\Debug\SearchWordLib.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\obj\Debug\UniqueWordSearch.csproj.AssemblyReference.cache
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\obj\Debug\UniqueWordSearch.csproj.CoreCompileInputs.cache
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\obj\Debug\UniqueWordSearch.csproj.CopyComplete
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\obj\Debug\UniqueWordSearch.exe
+F:\мои предметы\Коробов\Pain\2_Quest\UniqueWordSearch\obj\Debug\UniqueWordSearch.pdb
