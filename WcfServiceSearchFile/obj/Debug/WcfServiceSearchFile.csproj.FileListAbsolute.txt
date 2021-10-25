@@ -1,0 +1,19 @@
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\bin\WcfServiceSearchFile.dll.config
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\bin\WcfServiceSearchFile.dll
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\bin\WcfServiceSearchFile.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\bin\SearchWordLib.dll
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\bin\SearchWordLib.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.csproj.AssemblyReference.cache
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.dll
+C:\Users\Clay\source\repos\UniqueWordSearch\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\bin\WcfServiceSearchFile.dll.config
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\bin\WcfServiceSearchFile.dll
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\bin\WcfServiceSearchFile.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\bin\SearchWordLib.dll
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\bin\SearchWordLib.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.csproj.AssemblyReference.cache
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.csproj.CoreCompileInputs.cache
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.csproj.CopyComplete
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.dll
+F:\мои предметы\Коробов\Pain\2_Quest\WcfServiceSearchFile\obj\Debug\WcfServiceSearchFile.pdb

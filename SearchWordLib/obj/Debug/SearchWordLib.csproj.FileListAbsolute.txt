@@ -1,0 +1,12 @@
+C:\Users\Clay\source\repos\UniqueWordSearch\SearchWordLib\bin\Debug\SearchWordLib.dll
+C:\Users\Clay\source\repos\UniqueWordSearch\SearchWordLib\bin\Debug\SearchWordLib.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\SearchWordLib\obj\Debug\SearchWordLib.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\UniqueWordSearch\SearchWordLib\obj\Debug\SearchWordLib.dll
+C:\Users\Clay\source\repos\UniqueWordSearch\SearchWordLib\obj\Debug\SearchWordLib.pdb
+C:\Users\Clay\source\repos\UniqueWordSearch\SearchWordLib\obj\Debug\SearchWordLib.csproj.AssemblyReference.cache
+F:\мои предметы\Коробов\Pain\2_Quest\SearchWordLib\bin\Debug\SearchWordLib.dll
+F:\мои предметы\Коробов\Pain\2_Quest\SearchWordLib\bin\Debug\SearchWordLib.pdb
+F:\мои предметы\Коробов\Pain\2_Quest\SearchWordLib\obj\Debug\SearchWordLib.csproj.AssemblyReference.cache
+F:\мои предметы\Коробов\Pain\2_Quest\SearchWordLib\obj\Debug\SearchWordLib.csproj.CoreCompileInputs.cache
+F:\мои предметы\Коробов\Pain\2_Quest\SearchWordLib\obj\Debug\SearchWordLib.dll
+F:\мои предметы\Коробов\Pain\2_Quest\SearchWordLib\obj\Debug\SearchWordLib.pdb
